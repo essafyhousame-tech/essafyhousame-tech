@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Housame (essafyhousame-tech)
-
-<p align="center">
+# 👋 Hey, I'm Housame Esـsafy
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Creative+Content+Creator;Professional+Video+Editor" alt="Typing SVG" />
 </p>
 
@@ -9,13 +7,13 @@
 ### 💫 About Me
 I am a passionate developer and digital creator who loves bridging the gap between clean code and striking visual design. I build modern mobile and web applications, edit high-impact videos, and design premium user experiences.
 
-- 🚀 Currently exploring: **React Native, Expo, and Advanced Animation Libraries**
-- 🎥 Creative side: **Professional Video Editor & Content Creator**
-- ⚡ Fun fact: I believe that code should be as visually captivating as a cinematic video.
+-  Currently exploring: **React Native, Expo, and Advanced Animation Libraries**
+-  Creative side: **Professional Video Editor & Content Creator**
+-  Fun fact: I believe that code should be as visually captivating as a cinematic video.
 
 ---
 
-### 🛠️ My Toolbox
+###  My Toolbox
 
 <p align="left">
   <!-- Languages -->
